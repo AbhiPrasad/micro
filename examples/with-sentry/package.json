@@ -1,0 +1,15 @@
+{
+  "name": "with-sentry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "@sentry/node": "latest",
+    "@sentry/tracing": "latest",
+    "graphql-request": "latest",
+    "micro": "latest"
+  },
+  "license": "MIT"
+}
